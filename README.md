@@ -1,4 +1,4 @@
-# MOHD ARSH // DIGITAL LAB
+# MOHD ARSH 
 
 An editorial, framework-free personal portfolio for Mohd Arsh — a 3rd-year B.Tech CSE student at DIT University, Dehradun, full-stack developer in progress, DevOps learner and creative technologist.
 
