@@ -1,0 +1,10 @@
+{
+  "name": "arsh-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A cinematic portfolio for Arsh — CSE, code, games and creative systems.",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check script.js"
+  }
+}
